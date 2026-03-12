@@ -16,13 +16,13 @@ Creates a **fallback proxy group** that automatically switches between your sele
 ## Quick Start
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/anthropics-inc/clash-smart-group/main/setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shing19/clash-smart-group/main/setup.sh)
 ```
 
 Or clone and run:
 
 ```bash
-git clone https://github.com/anthropics-inc/clash-smart-group.git
+git clone https://github.com/shing19/clash-smart-group.git
 cd clash-smart-group
 bash setup.sh
 ```
